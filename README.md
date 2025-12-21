@@ -41,8 +41,7 @@ Before starting - check out our [CONTRIBUTING.md](https://github.com/opencodeiii
 
 After forking and cloning the project, install the following dependencies:
     
-- NodeJs [Download](https://nodejs.org/en)
-    
+> **NOTE** : The project utilizes `node.js` and `Javascript` for the backend server, and `go` for the frontend. Before downloading the following dependencies, make sure that yoru machine has up-to-date versions of them!  
 
 - Within `/server` 
 ```bash 
